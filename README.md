@@ -10,6 +10,7 @@ Chữ kí số
 <img width="1442" height="548" alt="image" src="https://github.com/user-attachments/assets/8db260f1-ed10-4ed5-857d-ecd3655c8658" />
 
 # sign_pdf.py (Ký Tài liệu)
+<img width="1919" height="690" alt="image" src="https://github.com/user-attachments/assets/6895c039-38d9-4e3d-ad7a-77ca1b45c606" />
 
 ## Mục đích: Dùng Khóa Bí mật vừa tạo để ký vào original.pdf, tạo ra signed.pdf.
 
@@ -26,11 +27,6 @@ Chữ kí số
 ## tampered.py được dùng để sửa đổi signed.pdf thành tampered.pdf để phục vụ cho việc kiểm thử tính năng phát hiện giả mạo của verify_pdf.py.
 
 <img width="1387" height="656" alt="image" src="https://github.com/user-attachments/assets/0b3e7e1b-b8ca-48b3-8837-269d877f9fe0" />
-
-
-# 2.( signed.pdf) File đã được ký số (chương trình tạo chữ ký).
-<img width="1386" height="390" alt="image" src="https://github.com/user-attachments/assets/6cb36eeb-d428-4937-a5d1-541a591e5e7a" />
-<img width="1919" height="690" alt="image" src="https://github.com/user-attachments/assets/6895c039-38d9-4e3d-ad7a-77ca1b45c606" />
 
 # 3.File tampered.pdf chữ ký thay đổi .
 <img width="1348" height="594" alt="image" src="https://github.com/user-attachments/assets/1bfa3847-6bfc-48d0-a69e-ec2606d2e176" />

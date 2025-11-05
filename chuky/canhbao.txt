@@ -1,0 +1,64 @@
+📅  Thời điểm kiểm tra: 2025-11-06 00:25:48.451546
+📄  File cần xác thực:  F:\\chuky\\pdf\\signed.pdf
+────────────────────────────────────────────────────────────
+🔸 Đang tải chứng thư tin cậy...
+✅  Chứng thư nạp thành công!
+────────────────────────────────────────────────────────────
+📑  THÔNG TIN CHỮ KÝ PHÁT HIỆN:
+   ✒️  Tên trường chữ ký: Signature_HauThanhHuyen
+   📦  Kích thước vùng ký: 3055 byte
+   🔢  ByteRange: [0, 426415, 432527, 889]
+   🔑  SHA256: 228a4c8d12d0344851116d987b8f4f9751b7b16b4a09cfcfdc691cbbe671ed78...
+────────────────────────────────────────────────────────────
+🧩  ĐANG TIẾN HÀNH XÁC THỰC...
+✅  Hoàn tất xác thực chữ ký.
+────────────────────────────────────────────────────────────
+📊  KẾT QUẢ CHI TIẾT:
+Signer info
+-----------
+Certificate subject: "Email Address: hau.thanh.huyen@gmail.com, Common Name: Hau Thanh Huyen Signature Authority, Organization: Hau Thanh Huyen, Locality: Thai Nguyen, State/Province: Thai Nguyen, Country: VN"
+Certificate SHA1 fingerprint: 18682bb9cc1c6feafabc8918ce63aa98ab8b533d
+Certificate SHA256 fingerprint: 68f83a3f9eb7ad33dda17bfa6283f53cd633b7a2d3d316b85717a92c443d5a9c
+Trust anchor: "Email Address: hau.thanh.huyen@gmail.com, Common Name: Hau Thanh Huyen Signature Authority, Organization: Hau Thanh Huyen, Locality: Thai Nguyen, State/Province: Thai Nguyen, Country: VN"
+The signer's certificate is trusted.
+
+
+Integrity
+---------
+The signature is cryptographically sound.
+
+The digest algorithm used was 'sha256'.
+The signature mechanism used was 'sha256_rsa'.
+
+
+Signing time
+------------
+Signing time as reported by signer: 2025-11-05T17:23:43+00:00
+
+
+Modifications
+-------------
+The signature covers the entire file.
+
+
+Bottom line
+-----------
+The signature is judged VALID.
+
+
+
+👤  THÔNG TIN NGƯỜI KÝ:
+   • Chủ thể: Email Address: hau.thanh.huyen@gmail.com, Common Name: Hau Thanh Huyen Signature Authority, Organization: Hau Thanh Huyen, Locality: Thai Nguyen, State/Province: Thai Nguyen, Country: VN
+   • SHA1: 18 68 2B B9 CC 1C 6F EA FA BC 89 18 CE 63 AA 98 AB 8B 53 3D
+   • SHA256: 68 F8 3A 3F 9E B7 AD 33 DD A1 7B FA 62 83 F5 3C D6 33 B7 A2 D3 D3 16 B8 57 17 A9 2C 44 3D 5A 9C
+
+🕒  Thời gian ký (VN): 2025-11-06 00:23:43+07:00
+
+🧭  TÌNH TRẠNG TÀI LIỆU:
+   ✅  Không phát hiện chỉnh sửa sau khi ký.
+────────────────────────────────────────────────────────────
+🎉  KẾT QUẢ CUỐI: CHỮ KÝ HỢP LỆ – FILE NGUYÊN VẸN.
+────────────────────────────────────────────────────────────
+✅  Hoàn tất kiểm tra – kết quả lưu tại canhbao.txt
+👨‍💻  Người thực hiện: Hau Thanh Huyen
+════════════════════════════════════════════════════════════

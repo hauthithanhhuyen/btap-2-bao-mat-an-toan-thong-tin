@@ -1,8 +1,32 @@
 # btap-2-bao-mat-an-toan-thong-tin
 Chữ kí số
-# 1. .Tạo file gốc ban đầu, chưa có bất kỳ chữ ký nào.
-   <img width="967" height="256" alt="image" src="https://github.com/user-attachments/assets/f62ff693-9738-4a19-8a46-a1e6b49491e0" />
-  <img width="1552" height="783" alt="image" src="https://github.com/user-attachments/assets/36e9b418-152f-4421-b050-38579d2597eb" />
+# Các file cần có trong quá trình làm bài chữ kí số
+<img width="372" height="426" alt="image" src="https://github.com/user-attachments/assets/1f1b4b1d-a00b-4c4c-b7ae-01334dde6dae" />
+
+# Trước tiên trong quy trình chữ ký số là tạo khóa gen_keys.py.
+
+## Mục đích: Tạo ra các thành phần bảo mật cốt lõi: Khóa Bí mật (signer_key.pem) và Chứng chỉ (signer_cert.pem).
+
+<img width="1442" height="548" alt="image" src="https://github.com/user-attachments/assets/8db260f1-ed10-4ed5-857d-ecd3655c8658" />
+
+# sign_pdf.py (Ký Tài liệu)
+
+## Mục đích: Dùng Khóa Bí mật vừa tạo để ký vào original.pdf, tạo ra signed.pdf.
+
+<img width="1126" height="649" alt="image" src="https://github.com/user-attachments/assets/1b30d126-ce49-429a-9aa6-bfa287908dce" />
+
+# verify_pdf.py hoặc tampered.py (Xác minh/Giả mạo)
+
+## verify_pdf.py được dùng để kiểm tra tính hợp lệ của signed.pdf (cần Khóa Công khai trong signer_cert.pem).
+
+<img width="1286" height="553" alt="image" src="https://github.com/user-attachments/assets/a3dcaf8b-bb37-4cab-809d-cbba374e768f" />
+
+<img width="1567" height="570" alt="image" src="https://github.com/user-attachments/assets/2e638fd2-848f-4fb3-b612-49e58489e58a" />
+
+## tampered.py được dùng để sửa đổi signed.pdf thành tampered.pdf để phục vụ cho việc kiểm thử tính năng phát hiện giả mạo của verify_pdf.py.
+
+<img width="1387" height="656" alt="image" src="https://github.com/user-attachments/assets/0b3e7e1b-b8ca-48b3-8837-269d877f9fe0" />
+
 
 # 2.( signed.pdf) File đã được ký số (chương trình tạo chữ ký).
 <img width="1386" height="390" alt="image" src="https://github.com/user-attachments/assets/6cb36eeb-d428-4937-a5d1-541a591e5e7a" />

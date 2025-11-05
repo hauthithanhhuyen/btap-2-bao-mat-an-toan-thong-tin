@@ -1,0 +1,56 @@
+=== HỆ THỐNG XÁC THỰC CHỮ KÝ PDF ===
+📅 Thời điểm kiểm tra: 2025-11-05 10:24:40.406847
+📄 Tệp PDF cần xác thực: F:\chuky\pdf\signed.pdf
+===============================================
+🔍 Phát hiện trường chữ ký: Signature_HauThanhHuyen
+Kích thước chữ ký (/Contents): 3055 byte
+Vùng ByteRange: [0, 426415, 432527, 889]
+Giá trị SHA256 tính được: be61977c3b60c47b4cc62b1f57b8050a4029105ae77d6ce89e51b55902f2cc6b ✅
+===============================================
+🔒 KẾT QUẢ XÁC THỰC CHỮ KÝ:
+Signer info
+-----------
+Certificate subject: "Email Address: hau.thanh.huyen@gmail.com, Common Name: Hau Thanh Huyen Signature Authority, Organization: Hau Thanh Huyen, Locality: Thai Nguyen, State/Province: Thai Nguyen, Country: VN"
+Certificate SHA1 fingerprint: b1be13b05618192ab75ecfcd33fe9ed814fb451c
+Certificate SHA256 fingerprint: aa338aeb935c1799d0daf9b72578491294a82c3e49f1dd3589b09aa48185ea30
+Trust anchor: "Email Address: hau.thanh.huyen@gmail.com, Common Name: Hau Thanh Huyen Signature Authority, Organization: Hau Thanh Huyen, Locality: Thai Nguyen, State/Province: Thai Nguyen, Country: VN"
+The signer's certificate is trusted.
+
+
+Integrity
+---------
+The signature is cryptographically sound.
+
+The digest algorithm used was 'sha256'.
+The signature mechanism used was 'sha256_rsa'.
+
+
+Signing time
+------------
+Signing time as reported by signer: 2025-11-05T03:22:42+00:00
+
+
+Modifications
+-------------
+The signature covers the entire file.
+
+
+Bottom line
+-----------
+The signature is judged VALID.
+
+
+
+📜 THÔNG TIN CHỨNG THƯ NGƯỜI KÝ:
+  Chủ thể: Email Address: hau.thanh.huyen@gmail.com, Common Name: Hau Thanh Huyen Signature Authority, Organization: Hau Thanh Huyen, Locality: Thai Nguyen, State/Province: Thai Nguyen, Country: VN
+  Dấu vân tay SHA1: B1 BE 13 B0 56 18 19 2A B7 5E CF CD 33 FE 9E D8 14 FB 45 1C
+  Dấu vân tay SHA256: AA 33 8A EB 93 5C 17 99 D0 DA F9 B7 25 78 49 12 94 A8 2C 3E 49 F1 DD 35 89 B0 9A A4 81 85 EA 30
+
+🕒 Thời gian ký (giờ Việt Nam): 2025-11-05 10:22:42+07:00
+✅ Tài liệu KHÔNG bị chỉnh sửa sau khi ký.
+===============================================
+✅ CHỮ KÝ HỢP LỆ – TÀI LIỆU NGUYÊN VẸN.
+
+📘 Quá trình kiểm tra hoàn tất – kết quả được lưu trong result_log.txt.
+👨‍💻 Người thực hiện: Hau Thanh Huyen
+===============================================

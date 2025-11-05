@@ -2,13 +2,15 @@
 Chữ kí số
 # 1. . File gốc ban đầu, chưa có bất kỳ chữ ký nào..
    <img width="967" height="256" alt="image" src="https://github.com/user-attachments/assets/f62ff693-9738-4a19-8a46-a1e6b49491e0" />
-   <img width="1322" height="781" alt="image" src="https://github.com/user-attachments/assets/84042203-3e9d-4037-a73d-e3b11b73612f" />
-# 2.( signed.pdf)  (signed.pdf)File đã được ký số (chương trình tạo chữ ký).
-   <img width="881" height="407" alt="image" src="https://github.com/user-attachments/assets/0922d6cb-d3ed-43f2-859f-bec69b751175" />
-    <img width="1077" height="256" alt="image" src="https://github.com/user-attachments/assets/4687dda0-75fc-4e59-a4ea-45d0cc2dea50" />
-    <img width="832" height="501" alt="image" src="https://github.com/user-attachments/assets/0fedb8b2-5170-4a91-be69-4d60019a7aac" />
+  <img width="1552" height="783" alt="image" src="https://github.com/user-attachments/assets/36e9b418-152f-4421-b050-38579d2597eb" />
 
+# 2.( signed.pdf)  (signed.pdf)File đã được ký số (chương trình tạo chữ ký).
+<img width="1379" height="846" alt="image" src="https://github.com/user-attachments/assets/86f35ee4-bb8b-4bc6-ad78-5f3e6e5510a7" />
+<img width="1441" height="796" alt="image" src="https://github.com/user-attachments/assets/49c8a136-e870-4d1d-88ff-13c3df9a0e39" />
+
+   
 # 3.File tampered.pdf chữ ký không còn hợp lệ hoặc biến mất.
-<img width="1306" height="724" alt="image" src="https://github.com/user-attachments/assets/c8792685-5c9f-4401-b793-f184877204f4" />
+<img width="1467" height="477" alt="image" src="https://github.com/user-attachments/assets/ffe9248e-af9e-4bdc-ab6d-d15fc9b1c1e0" />
+<img width="1491" height="372" alt="image" src="https://github.com/user-attachments/assets/fc8c55df-957c-4936-b1d2-d084b6760cb2" />
 
 

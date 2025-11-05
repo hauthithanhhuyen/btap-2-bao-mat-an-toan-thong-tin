@@ -10,8 +10,7 @@ Chữ kí số
 <img width="1919" height="690" alt="image" src="https://github.com/user-attachments/assets/6895c039-38d9-4e3d-ad7a-77ca1b45c606" />
 
 # 3.File tampered.pdf chữ ký thay đổi .
-![Uploading image.png…]()
-
+<img width="1348" height="594" alt="image" src="https://github.com/user-attachments/assets/1bfa3847-6bfc-48d0-a69e-ec2606d2e176" />
 <img width="1717" height="674" alt="image" src="https://github.com/user-attachments/assets/2cd4d95c-ee13-48de-bb6a-38ee500c09c1" />
 <img width="1866" height="797" alt="image" src="https://github.com/user-attachments/assets/d44809db-10aa-4b69-853a-db5d69606b5b" />
 

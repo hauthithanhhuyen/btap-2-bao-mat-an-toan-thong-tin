@@ -6,7 +6,6 @@ Chữ kí số
 
 # 2.( signed.pdf) File đã được ký số (chương trình tạo chữ ký).
 <img width="1386" height="390" alt="image" src="https://github.com/user-attachments/assets/6cb36eeb-d428-4937-a5d1-541a591e5e7a" />
-<img width="1348" height="594" alt="image" src="https://github.com/user-attachments/assets/534c08ae-c731-4ee0-b2b8-437b5dfd4a77" />
 <img width="1919" height="690" alt="image" src="https://github.com/user-attachments/assets/6895c039-38d9-4e3d-ad7a-77ca1b45c606" />
 
 # 3.File tampered.pdf chữ ký thay đổi .

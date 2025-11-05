@@ -5,7 +5,8 @@ Chữ kí số
   <img width="1552" height="783" alt="image" src="https://github.com/user-attachments/assets/36e9b418-152f-4421-b050-38579d2597eb" />
 
 # 2.( signed.pdf) File đã được ký số (chương trình tạo chữ ký).
-<img width="1379" height="846" alt="image" src="https://github.com/user-attachments/assets/86f35ee4-bb8b-4bc6-ad78-5f3e6e5510a7" />
+<img width="1386" height="390" alt="image" src="https://github.com/user-attachments/assets/6cb36eeb-d428-4937-a5d1-541a591e5e7a" />
+![Uploading image.png…]()
 <img width="1919" height="690" alt="image" src="https://github.com/user-attachments/assets/6895c039-38d9-4e3d-ad7a-77ca1b45c606" />
 
 # 3.File tampered.pdf chữ ký thay đổi .
